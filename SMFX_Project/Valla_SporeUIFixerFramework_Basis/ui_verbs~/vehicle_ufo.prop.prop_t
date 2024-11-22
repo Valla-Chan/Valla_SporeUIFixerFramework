@@ -1,0 +1,9 @@
+key parent ui_verbs~!vehicle_VehicleTypeTemplate
+texts creatureAbilityDescription
+	(Abilities!0x0630d566) "UFO Description (PLACEHOLDER)"
+end
+texts creatureAbilityName
+	(Abilities!0x0630d565) "UFO (PLACEHOLDER)"
+end
+key verbIconImageID type_ufo_icon
+key verbIconTrayOverrideImageID type_ufo_icon

@@ -1,0 +1,8 @@
+playmode
+layouts_atlas~	0x40464200
+CommScreen-3
+sporemaster
+names
+CityEditorUI
+CommScreen-3 - Copy
+ExpansionPack1

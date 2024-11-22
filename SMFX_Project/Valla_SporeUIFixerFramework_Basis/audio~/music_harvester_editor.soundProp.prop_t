@@ -1,0 +1,6 @@
+float gain 0.5
+key musicTemplate patch_editor_base
+uint32 polyphony 1
+keys samples
+	music_harvester_editor
+end

@@ -1,0 +1,5 @@
+PNGs in this folder will get added to VerbIcons.spui to be used as in-editor icons.
+
+Common keys that pull from VerbIcons.spui:
+- verbIconImageID
+- paletteItemHeaderIconID

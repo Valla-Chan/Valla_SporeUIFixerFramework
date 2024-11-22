@@ -1,0 +1,13 @@
+names
+SculptPalette
+layouts_atlas~	0x40464200
+palette_config~	0x406b0100
+ExpansionPack1
+TemplatePaletteScenarioPaintPage
+SculptPaletteCategory
+auto_palette_config~_TemplatePaletteScenarioPaintPage
+editorPartsPalettePage
+SculptPaletteSubcategory
+CastPaletteCategory
+CastPalette
+sporemaster

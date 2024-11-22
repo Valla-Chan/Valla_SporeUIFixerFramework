@@ -1,0 +1,8 @@
+string8s postinitList
+	"tray_vehicle_ufo verb_ufo_PostInit"
+end
+
+key tray_vehicle_ufo verbtrays!vehicle_ufo
+#
+key verb_ufo_PostInit SPUIFF_verbtrays_postinits!verb_ufo_PostInit
+

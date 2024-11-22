@@ -1,0 +1,9 @@
+key parent ui_verbs~!vehicle_VehicleTypeTemplate
+texts creatureAbilityDescription
+	(HintsSPG!0x1b8bbdee) "Plant (PLACEHOLDER)"
+end
+texts creatureAbilityName
+	(Sporepedia!0x00020011) "Shrub"
+end
+key verbIconImageID type_flora_sml_icon
+key verbIconTrayOverrideImageID type_flora_sml_icon

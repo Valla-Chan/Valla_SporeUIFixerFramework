@@ -1,0 +1,9 @@
+key parent ui_verbs~!vehicle_VehicleTypeTemplate
+texts creatureAbilityDescription
+	(Abilities!0x0630d574) "Colony Sea Description (PLACEHOLDER)"
+end
+texts creatureAbilityName
+	(Abilities!0x0630d573) "Colony Sea(PLACEHOLDER)"
+end
+key verbIconImageID type_colony_icon
+key verbIconTrayOverrideImageID type_colony_icon

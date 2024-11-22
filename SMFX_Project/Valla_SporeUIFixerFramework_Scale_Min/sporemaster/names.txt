@@ -1,0 +1,20 @@
+names
+SculptPalette
+layouts_atlas~	0x40464200
+editorPaintBrushPaletteCategory
+editorPaintThemePaletteCategory
+ExpansionPack1
+SculptPaletteCategory
+editorPartsPaletteCategory_WithSubcategories
+editorPaintPaletteCategory
+editorPartsPaletteCategory
+editorPaintPalette_backup
+GlobalEditorUI
+editorPartsPalette
+plannerPaletteCategory
+editorPaintPalette
+editorPaintPalettePage
+CastPaletteCategory
+sporemaster
+CastPalette
+editorPartsPaletteCategory_nodark
