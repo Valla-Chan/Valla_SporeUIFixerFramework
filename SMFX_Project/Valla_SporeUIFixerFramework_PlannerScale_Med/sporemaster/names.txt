@@ -1,10 +1,10 @@
+layouts_atlas~	0x40464200
+plannerPaletteCategory
+plannerPalette_old
+sporemaster
 names
 CityMusicUI
-layouts_atlas~	0x40464200
-plannerPalette_old
-ExpansionPack1
 cityname
 plannerPalette
-sporemaster
 CityEditorUI
-plannerPaletteCategory
+ExpansionPack1
