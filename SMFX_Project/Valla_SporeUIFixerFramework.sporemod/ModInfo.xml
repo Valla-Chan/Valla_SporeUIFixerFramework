@@ -1,0 +1,16 @@
+<mod displayName="Spore UI Fixer Framework v1.0" unique="vallaSPUIFFv1.0" description="Spore UI Fixer Framework&#xA;Spore UI Fixer Framework is a mod that fixes numerous issues present in Spore's Graphics User Interface, rebalances UI motions for the 60 FPS fix, contains alternative UI scales for editors and the sporepedia, and provides a basis for other mods to modify the UI more effectively.&#xA;Requires UPE.&#xA;More details, and modder's resources can be found on the mod's Github page." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<prerequisite game="GalacticAdventures">SA_Valla_SporeUIFixerFramework_zBasis.package</prerequisite>
+	<prerequisite game="GalacticAdventures">SA_Valla_SporeUIFixerFramework_!PlannerScale_Med.package</prerequisite>
+	
+	<componentGroup unique="editorInterface" displayName="Editor Interface">
+			<component unique="editorScaleDef" displayName="Default Editor Scale" description="Does not change the scale of the editor palettes." imagePlacement="InsteadOf" game="GalacticAdventures?GalacticAdventures" defaultChecked="true"></component>
+			<component unique="editorScaleMed" displayName="Medium Editor Scale" description="Rescales the editor palettes to take up less screen space at higher resolutions." imagePlacement="InsteadOf" game="GalacticAdventures?GalacticAdventures">SA_Valla_SporeUIFixerFramework_EditorScale_Med.package</component>
+			<component unique="editorScaleMin" displayName="Small Editor Scale" description="Rescales the editor palettes to take up the least screen space at higher resolutions." imagePlacement="InsteadOf" game="GalacticAdventures?GalacticAdventures">SA_Valla_SporeUIFixerFramework_EditorScale_Min.package</component>
+	</componentGroup>
+	<component unique="commsScale" displayName="Civ/Space Comms Rescale" description="Rescales the communications window in the Civ and Space stages to be larger and prioritize the creature viewport. Intended for use at medium to high resolutions." game="GalacticAdventures" defaultChecked="false">SA_Valla_SporeUIFixerFramework_SpaceComm.package</component>
+	<component unique="sporepediaScale" displayName="Large Sporepedia Cards" description="Rescales the Sporepedia to display its cards and interface slightly larger. Intended for use at medium to high resolutions." game="GalacticAdventures" defaultChecked="false">SA_Valla_SporeUIFixerFramework_LrgSporepediaCards.package</component>
+	<component unique="adventureScale" displayName="Adventure Editor Rescale" description="Rescales the Adventure Editor palettes to take up less screen space at higher resolutions." game="GalacticAdventures" defaultChecked="false">SA_Valla_SporeUIFixerFramework_LrgSporepediaCards.package</component>
+
+	<prerequisite>Valla_SporeUIFixerFramework.dll</prerequisite>
+	
+</mod>
