@@ -1,3 +1,5 @@
+# Spore UI Fixer Framework
+
 **Spore UI Fixer Framework** fixes numerous issues present in Spore's Graphics User Interface, rebalances UI motions for the 60 FPS fix, and provides a basis for other mods to modify the UI more effectively.
 It also contains optional components that serve as alternative UI scales for editors and the Sporepedia.
 
