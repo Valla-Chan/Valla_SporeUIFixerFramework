@@ -45,7 +45,7 @@ This mod requires [UPE](https://github.com/Zarklord/UniversalPropertyEnhancer)
 How to [run Spore at 60 FPS](https://davoonline.com/phpBB3/viewtopic.php?t=5461) 
 
 
-To build a UI mod compatible with the fixes provided by Spore UI Fixer Framework, simply download the repository and mount the projects in /SMFX_Project/ to your Sporemodder project as a source.
+To build a UI mod compatible with the fixes provided by Spore UI Fixer Framework, simply download the repository and mount the projects in `/SMFX_Project/` to your Sporemodder project as a source.
 
 ### More details and modders' resources coming soon!
 
