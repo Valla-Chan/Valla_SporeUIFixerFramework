@@ -33,3 +33,6 @@
 /.vs
 /Valla_SporeUIFixerFramework/Debug
 *.sporemod
+*.tlog
+*.recipe
+/Valla_SporeUIFixerFramework/Release
