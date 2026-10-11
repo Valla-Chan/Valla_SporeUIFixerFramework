@@ -41,7 +41,7 @@ It also contains optional components that serve as alternative UI scales for edi
 **Spore UI Fixer Framework is compatible with most other UI mods, as it purposefully uses a low priority naming scheme as to be used only as a basis for useful changes, overridden by most others. Mods that directly modify SPUI files will take priority over the ones changed by Fixer Framework.**
 <br/>
 
-This mod requires [UPE](https://github.com/Zarklord/UniversalPropertyEnhancer)
+This mod requires [UPE](https://github.com/Zarklord/UniversalPropertyEnhancer)<br/>
 How to [run Spore at 60 FPS](https://davoonline.com/phpBB3/viewtopic.php?t=5461) 
 
 
